@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine-learning on Maxat Kulmanov</title>
+    <link>https://coolmaksat.github.io/tags/machine-learning/</link>
+    <description>Recent content in machine-learning on Maxat Kulmanov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 05 Nov 2018 11:50:48 +0300</lastBuildDate>
+    
+	<atom:link href="https://coolmaksat.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DeepGO</title>
+      <link>https://coolmaksat.github.io/project/deepgo/</link>
+      <pubDate>Mon, 05 Nov 2018 11:50:48 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/project/deepgo/</guid>
+      <description>DeepGO is a novel method for predicting protein functions using protein sequences and protein-protein interaction (PPI) networks. It uses deep neural networks to learn sequence features and PPI embeddings learned with knowledge graph representation learning method and hierarchically classifies proteins with GO classes.</description>
+    </item>
+    
+  </channel>
+</rss>

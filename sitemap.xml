@@ -4,6 +4,86 @@
     
     <url>
     
+      <loc>https://coolmaksat.github.io/project/vec2sparql/</loc>
+      <lastmod>2018-11-05T11:51:12+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/project/aberowl/</loc>
+      <lastmod>2018-11-05T11:51:05+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/project/deepgo/</loc>
+      <lastmod>2018-11-05T11:50:48+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/talk/eccb18/</loc>
+      <lastmod>2018-11-05T11:44:04+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/talk/swat4hcls/</loc>
+      <lastmod>2018-11-05T11:30:27+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/publication/phenogo2018/</loc>
+      <lastmod>2018-09-01T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/publication/deepgo2018/</loc>
+      <lastmod>2018-02-01T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/publication/tomato2017/</loc>
+      <lastmod>2017-07-01T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/publication/pvp2017/</loc>
+      <lastmod>2017-04-01T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/publication/evaluating2017/</loc>
+      <lastmod>2017-02-01T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://coolmaksat.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+03:00</lastmod>
     </url>
@@ -28,7 +108,61 @@
     
     <url>
     
+      <loc>https://coolmaksat.github.io/publication_types/2/</loc>
+      <lastmod>2018-09-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/tags/alleles/</loc>
+      <lastmod>2017-04-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/tags/cnn/</loc>
+      <lastmod>2018-11-05T11:50:48+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://coolmaksat.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/tags/computer-aided-drug-design/</loc>
+      <lastmod>2017-04-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/tags/genome-analysis/</loc>
+      <lastmod>2017-04-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/tags/mammalian-genomics/</loc>
+      <lastmod>2017-04-01T00:00:00+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -45,7 +179,53 @@
     
     <url>
     
+      <loc>https://coolmaksat.github.io/tags/model-organisms/</loc>
+      <lastmod>2017-04-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/tags/mouse-models/</loc>
+      <lastmod>2017-04-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/tags/pathogenesis/</loc>
+      <lastmod>2017-04-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/tags/phenotypes/</loc>
+      <lastmod>2017-04-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/project/</loc>
+      <lastmod>2018-11-05T11:51:12+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://coolmaksat.github.io/publication_types/</loc>
+      <lastmod>2018-09-01T00:00:00+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -54,6 +234,34 @@
     <url>
     
       <loc>https://coolmaksat.github.io/tags/</loc>
+      <lastmod>2017-04-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/tags/deep-learning/</loc>
+      <lastmod>2018-11-05T11:50:48+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/tags/gene-ontology/</loc>
+      <lastmod>2018-11-05T11:50:48+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://coolmaksat.github.io/tags/machine-learning/</loc>
+      <lastmod>2018-11-05T11:50:48+03:00</lastmod>
       <priority>0</priority>
     </url>
     

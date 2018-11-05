@@ -10,5 +10,106 @@
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Vec2SPARQL</title>
+      <link>https://coolmaksat.github.io/project/vec2sparql/</link>
+      <pubDate>Mon, 05 Nov 2018 11:51:12 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/project/vec2sparql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AberOWL</title>
+      <link>https://coolmaksat.github.io/project/aberowl/</link>
+      <pubDate>Mon, 05 Nov 2018 11:51:05 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/project/aberowl/</guid>
+      <description>&lt;p&gt;AberOWL is a framework for ontology-based access to biological
+data. It consists of a repository of bio-ontologies, a set of
+webservices which provide access to OWL(-EL) reasoning over the
+ontologies, and several frontends which utilise the ontology
+repository and reasoning services to provide access to specific
+biological datasets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DeepGO</title>
+      <link>https://coolmaksat.github.io/project/deepgo/</link>
+      <pubDate>Mon, 05 Nov 2018 11:50:48 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/project/deepgo/</guid>
+      <description>&lt;p&gt;DeepGO is a novel method for predicting protein functions using
+protein sequences and protein-protein interaction (PPI) networks.  It
+uses deep neural networks to learn sequence features and PPI
+embeddings learned with knowledge graph representation learning method
+and hierarchically classifies proteins with GO classes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ontology-based validation and identification of regulatory phenotypes</title>
+      <link>https://coolmaksat.github.io/talk/eccb18/</link>
+      <pubDate>Mon, 05 Nov 2018 11:44:04 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/talk/eccb18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vec2SPARQL: integrating SPARQL queries and knowledge graph embeddings.</title>
+      <link>https://coolmaksat.github.io/talk/swat4hcls/</link>
+      <pubDate>Mon, 05 Nov 2018 11:30:27 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/talk/swat4hcls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ontology-based validation and identification of regulatory phenotypes</title>
+      <link>https://coolmaksat.github.io/publication/phenogo2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/publication/phenogo2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepGO: predicting protein functions from sequence and interactions using a deep ontology-aware classifier</title>
+      <link>https://coolmaksat.github.io/publication/deepgo2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/publication/deepgo2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DES-TOMATO: A Knowledge Exploration System Focused On Tomato Species</title>
+      <link>https://coolmaksat.github.io/publication/tomato2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/publication/tomato2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic prioritization of novel causative genomic variants</title>
+      <link>https://coolmaksat.github.io/publication/pvp2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/publication/pvp2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the effect of annotation size on measures of semantic similarity</title>
+      <link>https://coolmaksat.github.io/publication/evaluating2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/publication/evaluating2017/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

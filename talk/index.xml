@@ -12,5 +12,23 @@
 	<atom:link href="https://coolmaksat.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Ontology-based validation and identification of regulatory phenotypes</title>
+      <link>https://coolmaksat.github.io/talk/eccb18/</link>
+      <pubDate>Mon, 05 Nov 2018 11:44:04 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/talk/eccb18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vec2SPARQL: integrating SPARQL queries and knowledge graph embeddings.</title>
+      <link>https://coolmaksat.github.io/talk/swat4hcls/</link>
+      <pubDate>Mon, 05 Nov 2018 11:30:27 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/talk/swat4hcls/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

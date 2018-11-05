@@ -7,9 +7,118 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="https://coolmaksat.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alleles</title>
+      <link>https://coolmaksat.github.io/tags/alleles/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/tags/alleles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CNN</title>
+      <link>https://coolmaksat.github.io/tags/cnn/</link>
+      <pubDate>Mon, 05 Nov 2018 11:50:48 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/tags/cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer-aided drug design</title>
+      <link>https://coolmaksat.github.io/tags/computer-aided-drug-design/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/tags/computer-aided-drug-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome analysis</title>
+      <link>https://coolmaksat.github.io/tags/genome-analysis/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/tags/genome-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mammalian genomics</title>
+      <link>https://coolmaksat.github.io/tags/mammalian-genomics/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/tags/mammalian-genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model organisms</title>
+      <link>https://coolmaksat.github.io/tags/model-organisms/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/tags/model-organisms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mouse models</title>
+      <link>https://coolmaksat.github.io/tags/mouse-models/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/tags/mouse-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pathogenesis</title>
+      <link>https://coolmaksat.github.io/tags/pathogenesis/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/tags/pathogenesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phenotypes</title>
+      <link>https://coolmaksat.github.io/tags/phenotypes/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/tags/phenotypes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>https://coolmaksat.github.io/tags/deep-learning/</link>
+      <pubDate>Mon, 05 Nov 2018 11:50:48 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gene-ontology</title>
+      <link>https://coolmaksat.github.io/tags/gene-ontology/</link>
+      <pubDate>Mon, 05 Nov 2018 11:50:48 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/tags/gene-ontology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://coolmaksat.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 05 Nov 2018 11:50:48 +0300</pubDate>
+      
+      <guid>https://coolmaksat.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
